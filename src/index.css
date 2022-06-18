@@ -21,6 +21,11 @@ header {
   justify-content: flex-end;
 }
 
+h3{
+  letter-spacing: 1px;
+  font-weight: normal;
+}
+
 .search {
   background-color: transparent;
   border: 2px solid #22254b;
